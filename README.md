@@ -1,2 +1,2 @@
 # hello-world
-Get familial with the girhub tour
+Get familiar with the girhub tour

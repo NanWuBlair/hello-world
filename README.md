@@ -1,2 +1,2 @@
 # hello-world
-Get familer with the github ture
+Get familial with the girhub tour
